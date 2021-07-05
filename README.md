@@ -24,17 +24,17 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
- Desktop
-![](images\Desktop-screenshot1.png)
-
-
-![](images\Desktop-screenshot2.png)
  
- Mobile
-![](images\mobile-screenshot1.png)
+![Desktop](images\Desktop-screenshot1.png)
 
 
-![](images\mobile-screenshot2.png)
+![Desktop](images\Desktop-screenshot2.png)
+ 
+
+![ Mobile](images\mobile-screenshot1.png)
+
+
+![ Mobile](images\mobile-screenshot2.png)
 
 
 ### Links
