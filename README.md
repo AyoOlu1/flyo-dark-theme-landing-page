@@ -25,9 +25,8 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here's the solution on Github](https://github.com/AyoOlu1/side-hustle-flyo-dark-theme-landing-page)
+- Live Site URL: [Click here to view the live site](https://oluwayemivictor-flyo-dark-theme-landing-page.netlify.app/)
 
 ## My process
   1. Download the starter files from [Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
